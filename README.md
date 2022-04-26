@@ -1,5 +1,5 @@
 # std-connection
-石铁大校园网自动登录，使用python+selenium
+石家庄铁道大学校园网自动登录程序，使用python+selenium编写，nuikta打包
 
 1.安装驱动文件，获取对应Edge版本的msedgedriver驱动
 驱动下载：https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
